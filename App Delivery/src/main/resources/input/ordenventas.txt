@@ -1,0 +1,3 @@
+Nombre: Walther
+Apellido: Oseda
+Monto: 20
